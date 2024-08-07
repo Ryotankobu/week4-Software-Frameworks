@@ -10,10 +10,10 @@ Command used for this project.
 ng new week4tut
 ```
  
-### 2. Add bootstrap to my application (Simple way)
+### 2. Add bootstrap to my application (npm)
  
 ```sh
-ng add @ng-bootstrap/ng-bootstrap
+npm install bootstrap --save
 ```
  
 ### 3. Create page components
@@ -28,7 +28,7 @@ ng generate component account
 ```sh
 ng serve
 ```
- 
+
 ## Github
  
 ```sh
